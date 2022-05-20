@@ -1,0 +1,31 @@
+body{
+    padding:0px;
+margin:0px;
+width:100%; 
+}
+.Navbars{
+    margin: 0px;
+    padding:10px 4rem;
+    background-color: rgb(9,2,70);
+
+    height: 60px;
+    color: rgb(200,200,200);
+    display: flex;
+    justify-content:space-between;
+    align-items:center ;
+}
+.logo_name{
+    font-size: 30px;
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.Nav{
+    display: flex;
+    justify-content: space-between;
+}
+    .nav_item{
+        border: solid white 1px;
+        border-radius: 5px;
+        margin: 0px 10px;
+        padding: 0px 5px;
+    }
